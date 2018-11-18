@@ -74,4 +74,100 @@
   --ion-color-light-contrast-rgb: 0, 0, 0;
   --ion-color-light-shade: #d7d8da;
   --ion-color-light-tint: #f5f6f9;
+
 }
+
+.ion-color-favorite {
+  --ion-color-base: #69bb7b;
+  --ion-color-base-rgb: 105, 187, 123;
+  --ion-color-contrast: #ffffff;
+  --ion-color-contrast-rgb: 255, 255, 255;
+  --ion-color-shade: #5ca56c;
+  --ion-color-tint: #78c288;
+}
+
+.ion-color-google {
+  --ion-color-base: #dc4a38;
+  --ion-color-base-rgb: 220, 74, 56;
+  --ion-color-contrast: #ffffff;
+  --ion-color-contrast-rgb: 255, 255, 255;
+  --ion-color-shade: #c24131;
+  --ion-color-tint: #e05c4c;
+}
+
+
+.ion-color-facebook {
+  --ion-color-base: #3b5998;
+  --ion-color-base-rgb: 59, 89, 152;
+  --ion-color-contrast: #ffffff;
+  --ion-color-contrast-rgb: 255, 255, 255;
+  --ion-color-shade: #344e86;
+  --ion-color-tint: #4f6aa2;
+}
+
+.ion-color-twitter {
+  --ion-color-base: #1da1f4;
+  --ion-color-base-rgb: 29, 161, 244;
+  --ion-color-contrast: #ffffff;
+  --ion-color-contrast-rgb: 255, 255, 255;
+  --ion-color-shade: #1a8ed7;
+  --ion-color-tint: #34aaf5;
+}
+
+// Shared Variables
+// --------------------------------------------------
+// To customize the look and feel of this app, you can override
+// the CSS variables found in Ionic's source files.
+// To view all the possible Ionic variables, see:
+// https://beta.ionicframework.com/docs/theming/css-variables#ionic-variables
+
+:root {
+  // TODO
+  // $headings-font-weight: 300;
+  --ion-headings-font-weight: 300;
+
+  --ion-color-angular: #ac282b;
+  --ion-color-communication: #8e8d93;
+  --ion-color-tooling: #fe4c52;
+  --ion-color-services: #fd8b2d;
+  --ion-color-design: #fed035;
+  --ion-color-workshop: #69bb7b;
+  --ion-color-food: #3bc7c4;
+  --ion-color-documentation: #b16be3;
+  --ion-color-navigation: #6600cc;
+  --ion-backdrop-color: #6600cc;
+}
+
+// App iOS Variables
+// --------------------------------------------------
+
+// .ios {
+
+// }
+
+// App Matrial Design Variables
+// --------------------------------------------------
+
+// .md {
+
+// }
+
+// App Theme
+// --------------------------------------------------
+// Ionic apps can have different themes applied, which can
+// then be future customized. This import comes last
+// so that the above variables are used and Ionic's
+// default are overridden.
+
+// @import "~@ionic/core/src/themes/ionic.theme.default";
+
+// Fonts
+// --------------------------------------------------
+// Roboto font is used by default for Material Design. Noto sans
+// is used by default for Windows.
+
+// @import "roboto";
+
+
+
+

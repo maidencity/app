@@ -1,9 +1,9 @@
 import { Component, OnInit } from '@angular/core';
 
 @Component({
-  selector: 'app-list',
-  templateUrl: 'list.page.html',
-  styleUrls: ['list.page.scss']
+  selector: 'page-list',
+  templateUrl: 'list.html',
+  styleUrls: ['list.scss']
 })
 export class ListPage implements OnInit {
   private selectedItem: any;
